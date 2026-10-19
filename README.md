@@ -1,4 +1,5 @@
 *This project has been created as part of the 42 curriculim by duandrad, gufreire and vloureir.*
+> **Note**: This repository is a standalone portfolio mirror of the collaborative 42 project developed in the team repository: [duarteagostinho/irc](https://github.com/duarteagostinho/irc).
 
 # Description:
 	The IRC project has the goal of creating an IRC Server from scratch using c++. It is supposed to follow IRC protocol standards and it is supposed to ne able to connect to an IRC Client, such as, hexchat to test its functionality.
